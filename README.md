@@ -19,7 +19,7 @@ CSS3: For styling the dice and the layout.
 JavaScript: For the randomization logic and DOM manipulation.
 
 How to Run the Project
-Download or clone this repository to your local machine: git clone https://github.com/YuluWusu/dice-simulator-website
+Download or clone this repository to your local machine: git clone https://github.com/YuluWusu/dice-simulator-website.git
 
 Open the project folder: cd dice-simulator
 
